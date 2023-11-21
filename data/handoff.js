@@ -1,0 +1,5 @@
+var symbolData ={
+                        "symbolsDict":{},
+                        "layers":[{"c":[{"x":0,"y":0,"w":673,"h":403,"ii":0,"n":"Frame 47","tp":"ShapePath","c":[{"x":191,"y":162,"w":291,"h":80,"ii":1,"n":"Boton","tp":"ShapePath","c":[{"x":257,"y":193.5,"w":159,"h":17,"ii":2,"n":"texto","tp":"Text","tx":"Iniciar","pr":"font-family: Poppins;\nfont-size: 50px;\nfont-weight: 600;\nline-height: 17px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #F4AAAA;\n"}],"pr":"border-color: #000000;\nborder-width : 1px;\n"}],"pr":"background-color: #FFFFFF;\n"}]},{"c":[{"x":0,"y":0,"w":673,"h":403,"ii":3,"n":"Frame 48","tp":"ShapePath","c":[{"x":191,"y":162,"w":291,"h":80,"ii":4,"n":"Boton","tp":"ShapePath","c":[{"x":297,"y":193.5,"w":79,"h":17,"ii":5,"n":"texto","tp":"Text","tx":"szs","pr":"font-family: Poppins;\nfont-size: 50px;\nfont-weight: 600;\nline-height: 17px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #F4AAAA;\n"}],"pr":"border-color: #000000;\nborder-width : 1px;\n"}],"pr":"background-color: #FFFFFF;\n"}]}],
+                        "styles":[]
+                    }
